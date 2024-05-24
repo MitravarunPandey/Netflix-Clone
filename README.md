@@ -1,0 +1,7 @@
+This is the core code from scratch to clone the landing page of Netflix using HTML andCSS .![Netflix-Clone7](https://github.com/MitravarunPandey/Netflix-Clone/assets/160329026/59acaba9-cd40-46d8-b4e5-153b92f9d232)
+![Netflix-Clone1](https://github.com/MitravarunPandey/Netflix-Clone/assets/160329026/51ea20d5-6417-4e7e-8d83-cf92dbe8c05f)
+![Netflix-Clone2](https://github.com/MitravarunPandey/Netflix-Clone/assets/160329026/0b2eee45-daf2-410b-99c0-18138d215907)
+![Netflix-Clone3](https://github.com/MitravarunPandey/Netflix-Clone/assets/160329026/710bc8b3-6fb9-4391-a018-558d7e3ee985)
+![Netflix-Clone4](https://github.com/MitravarunPandey/Netflix-Clone/assets/160329026/27fec95f-e1f4-4dc5-bf3d-2c5c22802451)
+![Netflix-Clone5](https://github.com/MitravarunPandey/Netflix-Clone/assets/160329026/11858f15-3292-4e1e-9725-b96bc6a5a3ed)
+![Netflix-Clone6](https://github.com/MitravarunPandey/Netflix-Clone/assets/160329026/c811f45a-0e88-467f-ab74-c614951a08cd)
